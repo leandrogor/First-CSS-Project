@@ -11,9 +11,9 @@ function calcEdad() {
 }
 
 function mostrarCadena(cadena) {
-  //for (n=0;n<=n.lengh-1;n++) {
+  for (n=0;n<=length(cadena);n++) {
     console.log(cadena[0]);
-  //}
+  }
   alert(cadena);
 }
 
